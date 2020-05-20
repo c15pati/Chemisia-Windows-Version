@@ -8,7 +8,7 @@ This version can be either a host, or a client in a multiplayer game.
 
 ### 1. Download the zip file, and install.
 
-![](https://github.com/c15pati/Chemisia-Windows-Version/blob/master/download%zip.gif)
+![](https://github.com/c15pati/Chemisia-Windows-Version/blob/master/download%20zip.gif)
 
 ### 2. Download and set up Hamachi. [Hamachi](https://www.vpn.net/)
 
