@@ -13,10 +13,10 @@ This version can be either a host, or a client in a multiplayer game.
 ### 2. Download and set up Hamachi. [Hamachi](https://www.vpn.net/)
 
 
-### 3. Make a network in Hamachi adding the other players. [Hamachi how to set up Network](https://documentation.logmein.com/webhelp/EN/CentralUserGuide/LogMeIn/t_hamachi_nw_add.html?raw=true)
+### 3. Make a network in Hamachi adding the other players. [Hamachi how to set up Network](https://documentation.logmein.com/webhelp/EN/CentralUserGuide/LogMeIn/t_hamachi_nw_add.html)
 
 
-![](https://github.com/c15pati/Chemisia-Windows-Version/blob/master/hamachi%20create%20network%20gif.gif)
+![](https://github.com/c15pati/Chemisia-Windows-Version/blob/master/hamachi%20create%20network%20gif.gif?raw=true)
 
 ### 4. Hosts and clients input Host's address in the game menu. 
 ![](https://github.com/c15pati/Chemisia-Windows-Version/blob/master/put%20in%20address%20of%20host%20gif.gif)
