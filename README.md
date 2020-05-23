@@ -3,6 +3,9 @@
 This repository contains the windows version of the game. 
 This version can be either a host, or a client in a multiplayer game. 
 
+This repository contains the distribution package of the game. 
+For the game code a different repository will be created.
+After installing run the Game.exe file
 
 ## Steps
 
