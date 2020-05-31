@@ -11,7 +11,7 @@ After installing run the Game.exe file
 
 ### 1. Download the zip file, and install.
 
-![](https://github.com/c15pati/Chemisia-Windows-Version/blob/master/download%20zip.gif)
+![gif](https://github.com/c15pati/Chemisia-Windows-Version/blob/master/download%20zip.gif?raw=true)
 
 ### 2. Download and set up Hamachi. [Hamachi](https://www.vpn.net/)
 
@@ -22,16 +22,15 @@ After installing run the Game.exe file
 ![gif](https://github.com/c15pati/Chemisia-Windows-Version/blob/master/hamachi%20create%20network%20gif.gif?raw=true)
 
 ### 4. Hosts and clients input Host's address in the game menu. 
-![](https://github.com/c15pati/Chemisia-Windows-Version/blob/master/put%20in%20address%20of%20host%20gif.gif)
+![gif](https://github.com/c15pati/Chemisia-Windows-Version/blob/master/put%20in%20address%20of%20host%20gif.gif?raw=true)
 
 
 ### 5. Host starts server by interacting with the "sign" graphic in the first screen of the game. 
 
-![](https://github.com/c15pati/Chemisia-Windows-Version/blob/master/host%20opens%20server.gif)
-
+![gif](https://github.com/c15pati/Chemisia-Windows-Version/blob/master/host%20opens%20server.gif?raw=true)
 
 
 ### 6. Clients join game by interacting with the "road to chemisia" graphic in the first screenof the game. 
 
-![](https://github.com/c15pati/Chemisia-Windows-Version/blob/master/player%20joins.gif)
+![gif](https://github.com/c15pati/Chemisia-Windows-Version/blob/master/player%20joins.gif?raw=true)
 
